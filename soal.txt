@@ -1,0 +1,119 @@
+Bagaimana cara menambah judul pada HTML?
+A. dengan menaruh judul di tag <head>
+B. dengan menaruh judul di tag <title>
+C. dengan menaruh judul di tag <div>
+D. dengan menaruh judul di tag <input>
+
+Jika ingin membuat input text, tag yang digunakan adalah?
+A. <input type="text">
+B. <input type="number">
+C. <input type="date">
+D. <input type="color">
+
+Jika ingin membuat input angka, tag yang digunakan adalah?
+A. <input type="text">
+B. <input type="number">
+C. <input type="date">
+D. <input type="color">
+
+Bagaimana cara mengganti background suatu elemen di CSS?
+A. background-color:red;
+B. color:red;
+C. border:red;
+D. div:red;
+
+Bagaimana cara membuat sudut suatu elemen tidak lancip di CSS?
+A. border:10px;
+B. border-size:10px;
+C. border:rounded;
+D. border-radius:10px;
+
+Properti CSS yang membuat jarak antar elemen dengan elemen lainnya adalah?
+A. margin
+B. color
+C. padding
+D. length
+
+Properti CSS yang membuat jarak antar elemen dengan elemen didalamnya adalah?
+A. margin
+B. color
+C. padding
+D. length
+
+Bagaimana cara membuat style yang berbeda pada tag yang sama?
+A. dengan membuat class
+B. dengan membuat name
+C. dengan membuat input
+D. dengan membuat file berbeda
+
+Properti CSS yang membuat garis tepi adalah?
+A. border-radius
+B. corner
+C. line-width
+D. border
+
+Bagaimana cara membuat text di tengah?
+A. text-align: left;
+B. text-align: right;
+C. text-align: center;
+D. text-align: justify;
+
+Pada bagian mana tag <style> dimasukkan?
+A. <head>
+B. <body>
+C. <div>
+D. <input>
+
+Pada bagian mana tag <title> dimasukkan?
+A. <head>
+B. <body>
+C. <div>
+D. <input>
+
+Untuk meulis paragraf, tag apa yang dibutuhkan pada HTML?
+A. <input>
+B. <p>
+C. <div>
+D. <H1>
+
+Tag apa yang bisa membungkus tag lain pada HTML?
+A. <input>
+B. <p>
+C. <div>
+D. <H1>
+
+Bagaimana cara mengubah warna tulisan di CSS?
+A. color:red;
+B. text:red;
+C. text-color:red;
+D. background-color:red;
+
+Bagaimana cara menulis warna merah pada format color hex?
+A. red
+B. rgba(255,0,0,1)
+C. hsv(0,1,1)
+D. #FF0000
+
+Bagaimana cara menulis warna biru pada format tulisan?
+A. blue
+B. rgba(0,0,255,1)
+C. hsv(50,1,1)
+D. #0000FF
+
+Bagaimana cara menulis warna hijau pada format RGB?
+A. green
+B. #00FF00
+C. #0F0
+D. rgb(0,255,0)
+
+Bagaimana cara membuat multiple choice pada HTML?
+A. <input type="radio">
+B. <input type="checkbox">
+C. <input type="date">
+D. <input type="color">
+
+Bagaimana cara membuat pilihan dan hanya satu yang dapat dipilih pada HTML?
+A. <input type="radio">
+B. <input type="checkbox">
+C. <input type="date">
+D. <input type="color">
